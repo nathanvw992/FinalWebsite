@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://imgs.search.brave.com/Lqx0n0d-3l_E25Sr00-Sg_dobw4IykF90rjUKtifR6Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC82NC8zNC9z/ZWEtdW5kZXJ3YXRl/ci1iYWNrZ3JvdW5k/LWRlZXAtb2NlYW4t/Ym90dG9tLXZlY3Rv/ci0zNzc0NjQzNC5q/cGc);
+    background-size: 100% auto;
+    background-position: center;
+    color: black;
+}
+h1{
+    background-color: rgba(187, 205, 220, 0.82);
+    color: black;
+    font-family: sans-serif;
+    padding-left: 2rem;
+    display: inline-block;
+}
+.video{
+    background-color: rgba(187, 205, 220, 0.82);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+h2{
+    background-color: rgba(187, 205, 220, 0.82);
+}
+.data{
+    background-color: rgba(187, 205, 220, 0.82);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+    background-color: rgba(187, 205, 220, 0.82);
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.footer{
+    background-color: rgba(187, 205, 220, 0.82);
+    
+}
+.resume{
+    background-color: rgba(187, 205, 220, 0.82);
+}
+.title{
+    color: rgb(185, 68, 68);
+}
+
